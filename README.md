@@ -6,7 +6,7 @@ This homework assignment is **optional**.
 
 In this week's assignment, you will create a Word Guess command-line game using constructor functions.
 
-![Word Guess Cli](Images/01-WordGuess-Cli.gif)
+![Word Guess Cli](Images/WordGuess-Cli.gif)
 
 ### Submission on BCS
 
